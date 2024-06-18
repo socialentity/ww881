@@ -1,22 +1,32 @@
-Welcome to Lumache's documentation!
+WW88 - THƯƠNG HIỆU NHÀ CÁI TRỰC TUYẾN UY TÍN TOP 1 CHÂU Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`WW88 <https://54.178.70.1/>`_ là hệ thống giải trí trực tuyến hàng đầu tại Châu Á. Được cấp phép hoạt động hợp pháp và bảo hộ trực tiếp bởi tổ chức  PAGCOR, WW88 tự hào mang đến cho bạn một nền tảng giải trí công bằng và khách quan với hàng trăm trò chơi trực tuyến đa dạng, từ bắn cá, thể thao, game bài đến các trò chơi casino hấp dẫn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 123 P. Yên Duyên, Tổ dân phố số 6, Hoàng Mai, Hà Nội, Việt Nam. 
 
-   This project is under active development.
+Phone: 0809443422. 
 
-Contents
---------
+Email: tapfortwalmuelliott@gmail.com. 
 
-.. toctree::
+Website: `https://54.178.70.1/ <https://54.178.70.1/>`_
 
-   usage
-   api
+#ww88 #nhacaiww88 #trangchuww88 #linkww88 #dangkyww88 #ww88com #nhacaitructuyenww88 #casinoww88
+
+Các trang liên quan:
+
+https://54.178.70.1/casino-ww88/
+
+https://54.178.70.1/the-thao-ww88/
+
+https://54.178.70.1/ban-ca-ww88/
+
+https://54.178.70.1/game-bai-ww88/
+
+https://54.178.70.1/xo-so-ww88/
+
+https://54.178.70.1/da-ga-ww88/
+
+https://54.178.70.1/tin-tuc/
